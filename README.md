@@ -1,4 +1,5 @@
 # zeroTwo
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 	  <title>SIMP</title>
